@@ -36,7 +36,10 @@ body {
     margin: 8px;
     display: block;
 }
-
+header{
+    font-size: larger;
+    margin-left: 25px;
+}
 p {
     margin-top: 20px;
     margin-bottom: 20px;
